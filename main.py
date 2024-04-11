@@ -1,7 +1,7 @@
 import discord 
 client = discord.Client()
 
-bot_ka_token=''
+bot_ka_token='bot_ka_token'
 
 @client.event
 async def on_ready():
